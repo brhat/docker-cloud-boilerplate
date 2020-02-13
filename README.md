@@ -33,5 +33,3 @@ Will be online under https://portainer.{your-domain}
 Start nextcloud (Proxy and load loadbalancer) with ``cd nextcloud`` and ``docker-compose up -d``
 Will be online under https://nextcloud.{your-domain}
 
-Start website (Static website) with ``cd website`` and ``docker-compose up -d``
-Will be online under https://{your-domain}
